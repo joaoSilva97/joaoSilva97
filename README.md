@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaoSilva97
 - 👀 I’m interested in python, react, JS, HTML.
-- 🌱 I’m currently learning python, react, angular.
+- 🌱 I’m currently learning python, Machine Learning
 - 💞️ I’m looking to collaborate on small project so i can help people and to get help to be better at programming
 - 📫 How to reach me? Just send me DM
 
