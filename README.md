@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaoSilva97
-- 👀 I’m interested in python, JS, Java, C++.
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in python, JS, Java, DEvOps.
+- 🌱 I’m currently learning Python, pyscript and some tools for DevOps
 - 💞️ I’m looking to collaborate on small project so i can help people and to get help to be better at programming
 - 📫 How to reach me? Just send me DM
 
